@@ -27,7 +27,7 @@
 
 - Flutter SDK
 - Android Studio / VS code
-- 
+  
 ### Installation Steps
 
 1. Clone the repository.
