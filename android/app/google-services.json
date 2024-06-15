@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424548764282",
+    "project_id": "finalchat-b9e21",
+    "storage_bucket": "finalchat-b9e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424548764282:android:206d6e4bdc76d9386e09c3",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSW-8V9e61uQ6uy-h4pOYOMx2rmxyL-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
