@@ -15,7 +15,7 @@
 <li>Message Delete & Edit Feature
 
 
-<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
+<b>Some ScreenShots:</b></br><br>
 <kbd>
 
 </kbd>
