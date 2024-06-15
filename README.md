@@ -14,6 +14,30 @@
 <li>Message Read Status
 <li>Message Delete & Edit Feature
 
+## Technologies Used
+
+- Flutter
+- Dart
+- Firebase (if applicable)
+- Other libraries or APIs
+
+ ## Installation
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio / VS code
+- 
+### Installation Steps
+
+1. Clone the repository.
+2. Open the project in your preferred IDE (Android Studio / VS Code).
+3. Run `flutter pub get` to install dependencies.
+4. Configure Firebase (if applicable) by adding your Firebase configuration file.
+5. Run `flutter run` to launch the app.
+
+
+
 
 <b>Some ScreenShots:</b></br><br>
 <kbd>
