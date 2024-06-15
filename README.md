@@ -1,1 +1,1 @@
-# Intellichat
+# Please open the master branch
