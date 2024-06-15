@@ -41,11 +41,12 @@
 
 <b>Some ScreenShots:</b></br><br>
 <kbd>
-![Example Screenshot](https://github.com/Wndnjd/Intellichat/blob/master/screenshots/1.jpg)
-![Example Screenshot](https://github.com/Wndnjd/Intellichat/blob/master/screenshots/2.jpg)
-![Example Screenshot](https://github.com/Wndnjd/Intellichat/blob/master/screenshots/3.jpg)
-![Example Screenshot](https://github.com/Wndnjd/Intellichat/blob/master/screenshots/4.jpg)
-![Example Screenshot](https://github.com/Wndnjd/Intellichat/blob/master/screenshots/5.jpg)
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/1.jpg" alt="Example 1" width="100">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/2.jpg" alt="Example 1" width="100">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/3.jpg" alt="Example 1" width="100">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/4.jpg" alt="Example 1" width="100">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/5.jpg" alt="Example 1" width="100">
+
 
 
 </kbd>
