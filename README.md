@@ -1,5 +1,5 @@
 
-#ChatX
+#ChatX </b>
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
