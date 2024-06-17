@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-#Chatter
+
+#ChatX
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
@@ -33,7 +33,7 @@
 1. Clone the repository.
 2. Open the project in your preferred IDE (Android Studio / VS Code).
 3. Run `flutter pub get` to install dependencies.
-4. Configure Firebase (if applicable) by adding your Firebase configuration file.
+4. Configure Firebase  by adding your Firebase configuration file.
 5. Run `flutter run` to launch the app.
 
 
