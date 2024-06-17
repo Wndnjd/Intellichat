@@ -41,6 +41,13 @@
 
 <b>Some ScreenShots:</b></br><br>
 <kbd>
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/1.jpg" alt="Example 1" width="300">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/2.jpg" alt="Example 1" width="300">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/3.jpg" alt="Example 1" width="300">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/4.jpg" alt="Example 1" width="300">
+<img src="https://github.com/Wndnjd/Intellichat/blob/master/screenshots/5.jpg" alt="Example 1" width="300">
+
+
 
 </kbd>
 <br>
