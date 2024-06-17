@@ -5,7 +5,7 @@
 
 
     <application
-        android:label="Apna Chat"
+        android:label="ChatX"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

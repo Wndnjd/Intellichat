@@ -1,10 +1,10 @@
-name: we_chat
-description: "A Chatting App Developed by Harsh H. Rajpurohit (Google Me)"
+name: Chatx
+description: ""
 publish_to: "none"
 version: 1.0.1+1
 
 environment:
-  sdk: ">=3.3.2 <4.0.0"
+  sdk: ">=3.3.2"
 
 dependencies:
   flutter:
