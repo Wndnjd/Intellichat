@@ -39,10 +39,10 @@ class MyApp extends StatelessWidget {
             appBarTheme: const AppBarTheme(
           centerTitle: true,
           elevation: 1,
-          iconTheme: IconThemeData(color: Colors.black),
+          iconTheme: IconThemeData(color: Colors.white),
           titleTextStyle: TextStyle(
-              color: Colors.black, fontWeight: FontWeight.normal, fontSize: 19),
-          backgroundColor: Colors.white,
+              color: Colors.white, fontWeight: FontWeight.normal, fontSize: 19),
+          backgroundColor: Colors.black,
         )),
         home: const SplashScreen());
   }

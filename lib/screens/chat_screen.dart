@@ -165,8 +165,8 @@ class _ChatScreenState extends State<ChatScreen> {
                     //back button
                     IconButton(
                         onPressed: () => Navigator.pop(context),
-                        icon: const Icon(Icons.arrow_back,
-                            color: Colors.black54)),
+                        icon:
+                            const Icon(Icons.arrow_back, color: Colors.white)),
 
                     //user profile picture
                     ClipRRect(
@@ -195,7 +195,7 @@ class _ChatScreenState extends State<ChatScreen> {
                         Text(list.isNotEmpty ? list[0].name : widget.user.name,
                             style: const TextStyle(
                                 fontSize: 16,
-                                color: Colors.black87,
+                                color: Colors.white,
                                 fontWeight: FontWeight.w500)),
 
                         //for adding some space
@@ -213,7 +213,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                     context: context,
                                     lastActive: widget.user.lastActive),
                             style: const TextStyle(
-                                fontSize: 13, color: Colors.black54)),
+                                fontSize: 13, color: Colors.white)),
                       ],
                     )
                   ],
@@ -243,7 +243,7 @@ class _ChatScreenState extends State<ChatScreen> {
                         setState(() => _showEmoji = !_showEmoji);
                       },
                       icon: const Icon(Icons.emoji_emotions,
-                          color: Colors.blueAccent, size: 25)),
+                          color: Colors.purple, size: 25)),
 
                   Expanded(
                       child: TextField(
@@ -254,8 +254,8 @@ class _ChatScreenState extends State<ChatScreen> {
                       if (_showEmoji) setState(() => _showEmoji = !_showEmoji);
                     },
                     decoration: const InputDecoration(
-                        hintText: 'Type Something...',
-                        hintStyle: TextStyle(color: Colors.blueAccent),
+                        hintText: 'Enter message..',
+                        hintStyle: TextStyle(color: Colors.black),
                         border: InputBorder.none),
                   )),
 
@@ -297,7 +297,7 @@ class _ChatScreenState extends State<ChatScreen> {
                         }
                       },
                       icon: const Icon(Icons.camera_alt_rounded,
-                          color: Colors.blueAccent, size: 26)),
+                          color: Colors.black, size: 26)),
 
                   //adding some space
                   SizedBox(width: mq.width * .02),
@@ -326,7 +326,7 @@ class _ChatScreenState extends State<ChatScreen> {
             padding:
                 const EdgeInsets.only(top: 10, bottom: 10, right: 5, left: 10),
             shape: const CircleBorder(),
-            color: Colors.green,
+            color: Colors.black,
             child: const Icon(Icons.send, color: Colors.white, size: 28),
           )
         ],

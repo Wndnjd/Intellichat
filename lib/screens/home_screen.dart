@@ -227,7 +227,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 children: [
                   Icon(
                     Icons.person_add,
-                    color: Colors.blue,
+                    color: Colors.black,
                     size: 28,
                   ),
                   Text('  Add User')
@@ -240,7 +240,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 onChanged: (value) => email = value,
                 decoration: InputDecoration(
                     hintText: 'Email Id',
-                    prefixIcon: const Icon(Icons.email, color: Colors.blue),
+                    prefixIcon: const Icon(Icons.email, color: Colors.black),
                     border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(15))),
               ),
@@ -253,8 +253,8 @@ class _HomeScreenState extends State<HomeScreen> {
                       //hide alert dialog
                       Navigator.pop(context);
                     },
-                    child: const Text('Cancel',
-                        style: TextStyle(color: Colors.blue, fontSize: 16))),
+                    child: const Text('Back',
+                        style: TextStyle(color: Colors.black, fontSize: 16))),
 
                 //add button
                 MaterialButton(
@@ -271,8 +271,8 @@ class _HomeScreenState extends State<HomeScreen> {
                       }
                     },
                     child: const Text(
-                      'Add',
-                      style: TextStyle(color: Colors.blue, fontSize: 16),
+                      'Add Friend',
+                      style: TextStyle(color: Colors.black, fontSize: 16),
                     ))
               ],
             ));
