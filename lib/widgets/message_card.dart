@@ -83,7 +83,7 @@ class _MessageCardState extends State<MessageCard> {
           ),
         ),
 
-        //message time
+        //MESSAGE TIME
         Padding(
           padding: EdgeInsets.only(right: mq.width * .04),
           child: Text(
@@ -204,7 +204,7 @@ class _MessageCardState extends State<MessageCard> {
                         });
                       })
                   :
-                  //save option
+                  //Save Option
                   _OptionItem(
                       icon: const Icon(Icons.download_rounded,
                           color: Colors.blue, size: 26),
@@ -227,7 +227,7 @@ class _MessageCardState extends State<MessageCard> {
                         }
                       }),
 
-              //separator or divider
+              //Separator or Divider
               if (isMe)
                 Divider(
                   color: Colors.black54,
@@ -235,7 +235,7 @@ class _MessageCardState extends State<MessageCard> {
                   indent: mq.width * .04,
                 ),
 
-              //edit option
+              //Edit Option
               if (widget.message.type == Type.text && isMe)
                 _OptionItem(
                     icon: const Icon(Icons.edit, color: Colors.blue, size: 26),
@@ -247,7 +247,7 @@ class _MessageCardState extends State<MessageCard> {
                       _showMessageUpdateDialog();
                     }),
 
-              //delete option
+              //DELETE OPTION
               if (isMe)
                 _OptionItem(
                     icon: const Icon(Icons.delete_forever,
