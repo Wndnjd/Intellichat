@@ -13,12 +13,14 @@
 <li>Simple User Profile (with Photo, About, Last-seen, Created-at)
 <li>Message Read Status
 <li>Message Delete & Edit Feature
+<li>Smart Reply Suggestions
 
 ## Technologies Used
 
 - Flutter
 - Dart
 - Firebase (if applicable)
+- Google MLKIT 
 - Other libraries or APIs
 
  ## Installation
