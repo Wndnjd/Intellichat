@@ -7,7 +7,12 @@ class Dialogs {
         backgroundColor: Colors.blue.withOpacity(.8),
         behavior: SnackBarBehavior.floating));
   }
+static int calculation(int x, int y) {
+  
+  return 42; 
+}
 
+  
   static void showProgressBar(BuildContext context) {
     showDialog(
         context: context,
